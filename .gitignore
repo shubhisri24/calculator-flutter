@@ -1,0 +1,16 @@
+# Flutter
+.dart_tool/
+.idea/
+.vscode/
+build/
+.packages
+pubspec.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated files
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
