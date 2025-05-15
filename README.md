@@ -1,19 +1,35 @@
-# Stateful_1
+# 📱 Calculator App  
+_A Flutter project built using [FlutLab](https://flutlab.io)_
 
-A new Flutter project created with FlutLab - https://flutlab.io
+## 🧮 About the Project
 
-## Getting Started
+**Calculator App** is a simple, functional, and elegant calculator application built using Flutter. Designed with clean UI and responsive layout, it supports basic arithmetic operations and serves as a great starting point for Flutter beginners.
 
-A few resources to get you started if this is your first Flutter project:
+This project was created on [FlutLab.io](https://flutlab.io), an online Flutter IDE, and demonstrates fundamental concepts of Flutter app development including layout building, state management, and user interaction.
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+---
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshot
 
-## Getting Started: FlutLab - Flutter Online IDE
+![image](https://github.com/user-attachments/assets/d26f899a-4f43-442f-8774-588e7fe68a90)
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+
+## 🔧 Features
+
+- ✅ Responsive and clean UI
+- ✅ Basic arithmetic operations (+, –, ×, ÷)
+- ✅ Real-time input display and result
+- ✅ Button-based input system
+- ✅ Uses core Flutter widgets
+
+---
+
+## 🛠️ Getting Started
+
+To run this project locally:
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/your-username/calculator_app.git
+   cd calculator_app
